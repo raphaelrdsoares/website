@@ -1,0 +1,22 @@
+{
+  "name": "raphael-website-frontend",
+  "version": "1.0.0",
+  "description": "Website pessoal de Raphael Soares",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raphaelrdsoares/website.git"
+  },
+  "author": "Raphael Soares",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/raphaelrdsoares/website/issues"
+  },
+  "homepage": "https://github.com/raphaelrdsoares/website#readme",
+  "dependencies": {
+    "firebase": "^9.9.3"
+  }
+}
