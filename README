@@ -1,0 +1,8 @@
+## Deploy & Hospedagem
+
+A hospedagem do frontend está no Firebase Hosting.
+
+O deploys é realizado através do comando `firebase deploy`.
+
+A URL gerada pelo Firebase para acessar o site é a [website-raphael-soares.web.app](https://website-raphael-soares.web.app/).
+O que será exibido ao acessar a URL é tudo que está dentro da pasta `/public`.
